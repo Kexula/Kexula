@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Kexula
-- 👀 I’m interested in educational software, bots and web apps development
-- 🌱 I’m currently learning Django and Telegram Bot frameworks
+- 👀 I’m interested in ML software, swiftui apps and automating things with python
+- 🌱 I’m currently building hints.so
 - 📫 How to reach me https://t.me/kexula
