@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Kexula
-- 👀 I’m interested in ML software, swiftui apps and automating things with python
+- 👀 I’m interested in building startups
 - 🌱 I’m currently building hints.so
 - 📫 How to reach me https://t.me/kexula
