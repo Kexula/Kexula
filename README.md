@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Kexula
-- 👀 I’m interested in building startups
+- 👀 I’m interested in building SaaS: productivity, blogging, nutrition
 - 🌱 I’m currently building hints.so
 - 📫 How to reach me https://t.me/kexula
