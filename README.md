@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Kexula
 - 👀 I’m interested in building SaaS: productivity, blogging, nutrition
-- 🌱 I’m currently building hints.so
-- 📫 How to reach me https://t.me/kexula
+- 🌱 I’m currently building [hints.so](https://hints.so), [productivity-ai.net](https://productivity-ai.net) and [crmchat.ai](https://crmchat.ai)
+- 📫 How to reach me [Telegram](https://t.me/kexula)
