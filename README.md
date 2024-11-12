@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kexula
+- 👋 Hi, I’m ALex
 - 👀 I’m interested in building SaaS: productivity, blogging, nutrition
 - 🌱 My projects: [hints.so](https://hints.so), [productivity-ai.net](https://productivity-ai.net) and [crmchat.ai](https://crmchat.ai)
 - 📫 How to reach me [email](mailto:nolabeld@gmail.com)
